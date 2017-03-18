@@ -1,0 +1,14 @@
+<section class="cityinfo">
+	<div class="city cf" ng-model ="cities">
+		<a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
+		<a href="#/details/{{nextItem}}" class="btn btn-right">&gt;</a>
+		<h1>{{cities[whichItem].name}}</h1>
+		<div class="info">
+			<h3>{{cities[whichItem].bio}}</h3>
+			<img ng-src="img/{{cities[whichItem].shortname}}_img.jpg"
+			alt="Photo of {{cities[whichIem].name}}">
+			<div class="bio">{{cities[whichItem].otherinfo}}</div>
+		</div>
+	</div>
+	<a href="index.html">&laquo; back to search</a>
+</section>

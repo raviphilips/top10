@@ -1,0 +1,38 @@
+<section class="citypage">
+	
+	<div class="search">
+			<h1>Top 10 Cities In India</h1>
+			<label>search: </label>
+			<input ng-model="query" placeholder="Search for Cities here" autofocus>
+
+			<label  class="formgroup">By:
+			<select ng-model="citiesOrder">
+				<option value="rank">Rank</option>
+				<option value="name">Name</option>
+			</select>
+			</label>
+
+			<label class="formgroup">
+			<input type="radio" ng-model="direction" name="direction" checked />
+			Ascending
+			</label>
+
+			<label class="formgroup">
+			<input type="radio" ng-model="direction" name="direction" value="reverse" />
+			Decending
+			</label>
+		</div>
+			<ul class="citieslist">
+				<li ng-animate="'animate'" class="city cf" ng-repeat="city in cities | filter: query | orderBy: citiesOrder:direction">
+				<a href="#/details/{{cities.indexOf(city)}}">
+					<img ng-src="img/{{city.shortname}}_img.jpg" alt="photo of {{city.name}}">
+					<div class="info">
+						<h3>{{city.rank}}</h3>
+						<h2>{{city.name}}</h2>
+						<h3>{{city.bio}}</h3>
+					</div>
+				</a>
+				</li>
+			</ul>
+	
+</section>

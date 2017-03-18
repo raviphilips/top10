@@ -1,0 +1,100 @@
+[
+	{
+		"name": "Delhi",
+		"shortname": "delhi",
+		"rank": 1,
+		"bio": "Delhi being the capital of India, it is always assumed that many industries preferred to go there. Total GDP of Delhi is 167 Billion USD or 968600 Crore Rs. It is ranked number 37 in world among developed cities.",
+		"otherinfo": "Political activities are routine for the local people. Besides this, development of the city has been on the fast track due to hard working people and effective policy. New Delhi provides the best transportation facility such as metro rail and bus transportation."
+	},
+
+	{
+		"name": "Mumbai",
+		"shortname": "mumbai",
+		"rank": 2,
+		"bio": "Mumbai is the economical Capital of India. Total GDP of Mumbai is 1212200 Crore Rs or 209 Billion USD. It is ranked number 29 in world in developed cities.",
+		"otherinfo": "Mumbai is the financial capital of the country. Besides financial capital of the country, Mumbai is the capital of Maharashtra state. Due to Hindi film industry, Mumbai is also considered as the entertainment hub of India. In recent time, Mumbai is the fastest growing tech center of Maharashtra after Pune."
+	}
+
+	,
+
+	{
+		"name": "Kolkatta",
+		"shortname": "kolkatta",
+		"rank": 3,
+		"bio": "Kolkata, Old Capital of India which was before Independence once was the economical capital of India. Currently it is third most developed city in India as per GDP which is 150 Billion USD or 870000 Crore Rs. It is Ranked number 42 in world among developed cities.",
+		"otherinfo": "Locally, Kolkata is regarded as India’s intellectual, artistic and cultural capital. Although poverty is certainly apparent, the self-made middle class drives the city's core machinery, a nascent hipster culture thrives among its millennial residents and its dapper Bengali gentry frequent grand old colonial-era clubs."
+
+	}
+
+	,
+
+	{
+		"name": "Bengaluru",
+		"shortname": "bangalore",
+		"rank": 4,
+		"bio": "Bengaluru is the IT hub of India and is 4th most developed city in India. More importantly it is growing very fast and soon it will go up in rank. Currently its total GDP is 83 Billion USD or 481400 Crore Rs. It is ranked number 84 in World among Developed cities.",
+		"otherinfo": "Bangalore is the IT hub of India. Every year, thousands of new start-up starts here in IT industry. It provides the best opportunity for IT experts to make their career here. Bangalore is also known as the Silicon Valley of India due to thousands of IT companies which provide employment to a large number of people.Bangalore is also ranked in the list of the most high tech cities in the world. Bangalore has good infrastructure, communication facilities, transportation, IT parks, talent availability and much more."
+	}
+
+	,
+
+	{
+		"name": "Hyderabad",
+		"shortname": "hyderabad",
+		"rank": 5,
+		"bio": "Another Indian city which is developing its IT infrastructure a lot. Hyderabad is one of the most developed city in India specially in IT field. Its IT economic is one of the best in country. It has total GDP of 74 Billion USD or 429200 Crore Rs. It is ranked number 84 in world.",
+		"otherinfo": "Hyderabad is the capital city of Andhra Pradesh state. Hyderabad has also emerged as the tech hub of the country due to a business friendly policy of the state government in the tech industry. Already thousands of people working in the tech industry. Hyderabad is having state of the art infrastructure, availability of talent pool, best policy and thousands of companies working in the industry makes Hyderabad as one of the most advanced cities in India.Hyderabad has the best infrastructure compare to other cities of the state. It provides best high speed Internet, best transportation, availability of talent pool, communication facilities, educational institutes and much more."
+	}
+
+	,
+
+	{
+		"name": "Chennai",
+		"shortname": "chennai",
+		"rank": 6,
+		"bio": "Third city and another metro city of India from south India in this list. Chennai is another fast growing city in India with total GDP of 66 Billion USD or 382800 Crore Rs. Chennai is ranked 93rd among most developed city according to GDP in world.",
+		"otherinfo": "Chennai is the capital of Tamil Nadu state. It is also the largest city of South India. Chennai is considered as one of the busiest ports in the country. Chennai is another high tech city of India and ranked at #10 position in our list."
+	}
+
+	,
+
+	{
+		"name": "Ahmedabad",
+		"shortname": "ahmedabad",
+		"rank": 7,
+		"bio": "Ahmedabad is ranked among top 10 fastest developing city in world. Its economic is depended on versatile resources. Total GDP of Ahmedabad is 52 Billion USD or 301600 Crore Rs, which put him on 105 rank in world’s most developed city.",
+		"otherinfo": "Ahmedabad is the financial capital of the state of Gujarat. It was once known as the ‘Manchester of India’ due to large numbers of cloth mills. Ahmedabad has large numbers of bridges, tech companies, most advanced communication systems, availability of talent pool and much more."
+	}
+
+	,
+
+	{
+		"name": "Pune",
+		"shortname": "pune",
+		"rank": 8,
+		"bio": "Pune got the benefit if being near to Mumbai, plus its industry friendly weather and environment helps in growth. It is becoming hub of mid level IT company. Its total GDP is 48 Billion USD or 278400 Crore Rs. It is ranked number 108 in most developed city of world.",
+		"otherinfo": "Pune has been ranked at #2 position due to thousands of IT companies. Pune is on the way to become the next IT hub of India after Bangalore. There are already large numbers of IT and IT related companies doing business."
+	}
+
+	,
+
+	{
+		"name": "Surat",
+		"shortname": "surat",
+		"rank": 9,
+		"bio": "Famous for its textile industries and Diamond cutting industries which is one of the biggest in world. Total GDP of Surat is 40 Billion USD or 232000 Crore Rs.  It is ranked number 115 in most developed city of world.",
+		"otherinfo": "Situated on the south bank of the Tapi River, about 14 km from the sea, Surat has always attracted traders and merchants from afar. Its finely carved mosques, Parsi agiaris, European tombs and colonial houses all testify to the eclectic mix of ethnic communities that continue to live in the city. Surat is first major city en route to Gujarat from Mumbai, and makes a good base to explore southern Gujarat. Surat was once renowed for its silk weaving and brocade. The city still thrives as a textile center, mainly for its polyster fabrics. As the Textile industries declined in Ahmedabad and Mumbai in the 1970s, Surat became one of Gujarat's fastest growing cities and gave rise to several small scale industries."
+	}
+
+	,
+
+	{
+		"name": "Vishakapatnam",
+		"shortname": "vizag",
+		"rank": 10,
+		"bio": "Visakhapatnam is one of the biggest port in India, and major place for export and Import. Total GDP of Visakhapatnam is 26 Billion USD or 150800 Crore Rs, which put him on 133 rank in world’s most developed city.",
+		"otherinfo": "Visakhapatnam is the principal commercial hub of the state, and contributes to its economy in many sectors such as heavy industries, tourism, industrial minerals, fishing, and information technology. Visakhapatnam Port is the fifth busiest port in India in terms of cargo handled.[8] Visakhapatnam is home to the oldest shipyard and the only natural harbour on the east coast of India."
+	}
+
+
+]
